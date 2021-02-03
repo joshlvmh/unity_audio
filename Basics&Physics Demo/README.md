@@ -4,6 +4,10 @@
 
 You can download the demo folder here and open it in Unity to look around the scene, open commented scripts and get some examples of some funcitonality you can incorporate into your own game
 
+## Read Code
+
+If you're only interested in code, then navigate to Assets/Scripts and look through the folders in there to see different types of scripts
+
 ## Useful Links
 ### Unity Docs
 The Unity docs are not to be ignored, they're very helpful and very readable. Here are all the links relevant to this project:
