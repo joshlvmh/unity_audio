@@ -8,6 +8,14 @@ You can download the demo folder here and open it in Unity to look around the sc
 
 If you're only interested in code, then navigate to Demo/Assets/Scripts and look through the folders in there to see different types of scripts
 
+## Play the Demo
+
+You can try out the demo and play the game if you wish. 
+### Controls
+* **Movement**: WASD or Arrow Key movement
+* **Look**: Look around with lock There's no maximum cap, so make sure you don't look too far up/down or you'll be upside down (Maybe see if you can extend the "Look" script to stop this?)
+* **Pickup/Drop Axe**: Press E to pickup Axe when you're close enough and Q to drop it.
+
 ## Useful Links
 ### Unity Docs
 The Unity docs are not to be ignored, they're very helpful and very readable. Here are all the links relevant to this project:
