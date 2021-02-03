@@ -6,7 +6,7 @@ You can download the demo folder here and open it in Unity to look around the sc
 
 ## Read Code
 
-If you're only interested in code, then navigate to Assets/Scripts and look through the folders in there to see different types of scripts
+If you're only interested in code, then navigate to Demo/Assets/Scripts and look through the folders in there to see different types of scripts
 
 ## Useful Links
 ### Unity Docs
